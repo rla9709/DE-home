@@ -204,6 +204,7 @@
 EC2 인스턴스를 사용해서 무료버전으로 배포<br><br>
 데이터베이스는 RDS에 저장<br><br>
 Decorate Home을 줄여서 DE:home이라고 부르기로 했지만 도메인이 남아있질 않아서 mydehome을 선택<br>
+사용자 위치와 해당 위치의 날씨를 받아오는 API를 사용하기 위해 ACM 인증서 발급받아 HTTPS로 변경<br>
 <br><br>
 
 ## 마무리
