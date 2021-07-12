@@ -3,7 +3,6 @@
 > <a href="https://www.mydehome.com/dehome/main/mainpage">디홈으로 이동</a>
 
 
-# Description
 ## 프로젝트명 : 디홈(DE:home)
 
 > 그린 컴퓨터 아카데미 자바 과정 이수 하면서 만든 두번째 팀 프로젝트입니다.
