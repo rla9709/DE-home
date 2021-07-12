@@ -43,9 +43,9 @@ MZ세대를 중심으로 중고거래는 하나의 문화로 자리잡고 있습
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>&nbsp;
 
 ### 내가 개발한 파트
-<b>회원가입</b> - 회원가입, 로그인 , 카카오/네이버 로그인(RestAPI), 이메일인증번호 기능 구현<br>
+<b>회원가입</b> - 회원가입, 로그인 , 카카오/네이버 로그인(RestAPI), 이메일인증번호 기능 구현, 1 대 1 채팅기능<br>
 <b>중고거래</b> - 중고거래(등록, 수정, 삭제, 더보기버튼 AJAX 사용), 1 대 1 채팅기능(AJAX) 
 
 ### 메인화면
-
+![image](https://user-images.githubusercontent.com/74701876/125226183-8aef0e00-e30b-11eb-8b1f-b8307b2db358.png)
 <hr>
