@@ -1,6 +1,6 @@
 # DE:home 
 > 아래의 글을 누르면 해당 홈페이지로 이동합니다. <br>
-> <a href="https://www.mydehome.com/dehome/main/mainpage">디홈으로 이동</a>
+> <a href="https://www.mydehome.com/dehome/main/mainpage">디홈으로 이동</a><br>
 > test계정 - test1/test1
 
 ## 프로젝트명 : 디홈(DE:home)
